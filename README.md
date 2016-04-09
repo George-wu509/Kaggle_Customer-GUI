@@ -40,6 +40,17 @@ To run Kaggle_Customer-GUI, just type Customer_GUI in matlab command line.
 * Discriminant classification
 * K-nearest neighbor(KNN)
 * Suppoer vector mechine(SVM)
+* Classification Ensemble
+* Backpropagation Neural Network(BPN)
+* Radial basis network(RBN)
+* Adaptive neuro-fuzzy inference system(ANFIS)
+
+Update
+------------------------- 
+v1.1
+* Add 4 methods including Classification Ensemble, Backpropagation Neural Network(BPN)
+  Radial basis network(RBN), and Adaptive neuro-fuzzy inference system(ANFIS)
+* Show accuracy rate of classification
 
 
 
